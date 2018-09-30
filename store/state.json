@@ -1,0 +1,136 @@
+{
+  "persons": [
+    {
+      "firstname": "agathe",
+      "lastname": "hatchi",
+      "status": [
+        "student"
+      ],
+      "mail": "agathe.hatchi@gmail.com",
+      "contact": {
+        "linkedIn": "agathe-hatchi-1187b912b",
+        "facebook": "agathe.hatchi"
+      },
+      "avatar": "agathehatchi.jpg",
+      "competences": [
+        "sciences",
+        "management",
+        "finance",
+        "environment"
+      ],
+      "promotion": "2017-2018"
+    },
+    {
+      "firstname": "léa",
+      "lastname": "grimal",
+      "status": [
+        "student"
+      ],
+      "mail": "lea.grimal@laposte.net",
+      "contact": {
+        "linkedIn": "léa-grimal-63a059121",
+        "facebook": "lea.grimal"
+      },
+      "avatar": "leagrimal.jpg",
+      "competences": [
+        "sciences",
+        "management",
+        "finance",
+        "environment"
+      ],
+      "promotion": "2017-2018"
+    }
+  ],
+  "organisms": [
+    {
+      "id": "1",
+      "name": "FIIS",
+      "type": "Incubator",
+      "coordinates": {
+        "lat": 21.0235,
+        "lng": 105.80583
+      },
+      "description": "FTU Innovation and Incubation Space",
+      "main-content": "<h2>What does it do ?</h2><p>The FIIS (FTU Innovation and Incubation Space) provides help for who wants to transform an idea into a project/start-up. With more than 200 partners from 70 countries FIIS is an interesting structure students should have a look on. You can find details about their structure and events on Facebook or go there and plan an appointment with the members</p><p>It provides :</p><div style=\"display:flex;justify-content:center;\"><div class=\"uk-text-center\" style=\"flex-grow:1;flex-basis:0;\"><img src=\"/images/FIIS/training.png\" alt=\"training\" class=\"uk-preserve\" style=\"max-height: 80px;\"><p>Business model, Legal questions, Managing / reducing fees, Financial aspect, Pitch for investors</p></div><div class=\"uk-text-center\" style=\"flex-grow:1;flex-basis:0;\"><img src=\"/images/FIIS/coworkingspace.png\" alt=\"coworkingspace\" class=\"uk-preserve\" style=\"max-height: 80px;\"><p>Computers, Space for team work or alone</p></div><div class=\"uk-text-center\" style=\"flex-grow:1;flex-basis:0;\"><img src=\"/images/FIIS/prototyping.png\" alt=\"prototyping\" class=\"uk-preserve\" style=\"max-height: 80px;\"><p>Gives equipment possibilities to create a prototype of the idea</p></div></div><div style=\"display:flex;justify-content:center;\"><div class=\"uk-text-center\" style=\"flex-grow:1;flex-basis:0;\"><img src=\"/images/FIIS/networking.png\" alt=\"networking\" class=\"uk-preserve\" style=\"max-height: 80px;\"><p>Events with investors</p></div><div class=\"uk-text-center\" style=\"flex-grow:1;flex-basis:0;\"><img src=\"/images/FIIS/competitions.png\" alt=\"competitions\" class=\"uk-preserve\" style=\"max-height: 80px;\"><p>Promote the best projects through competitions</p></div></div>",
+      "side-content": "<h2>How long ?</h2><p>FIIS provides a short program of <b>3 months</b>. It’s a short time, it means hard-working and availability for those months. It can helps if we don’t know how to start with a project or if we have a specific problem</p><h2>What we like ?</h2><p>Located at the entrance of the Foreign Trade University, FIIS is really accessible for students. Students can work on a project during their day breaks without losing time in going in the town. Moreover, it’s not easy for students to make an idea concrete. The FIIS members are reachable and give their best to help people in their project</p><p>It’s an opportunity for students who can have a lack of confidence !</p><h2>Where ?</h2><p>Dear students of the Foreign Trade University, you may be never had an eye on before but the FIIS is just at the entrance of the Foreign Trade University, on the left side. At the moment, it’s just a small open space with the door always opened to welcome people but there are going to move inside the building A to get a bigger space</p>",
+      "address": "PHO Chua Lang 91, Hanoi, Thành Phố Hà Nội, Viêt Nam",
+      "contact": {
+        "website": "fiis.edu.vn",
+        "mail": "fiis@ftu.edu.vn",
+        "phone": "(024) 32595158"
+      }
+    },
+    {
+      "id": "2",
+      "name": "True Juice",
+      "type": "Start-up",
+      "coordinates": {
+        "lat": 21.03363,
+        "lng": 105.85448
+      },
+      "description": "Real. Raw. Cold pressed juice made with love",
+      "main-content": "<h2>What does it do ?</h2><p>Monday, 7:00 am, you need a juice to start the week but you only have an old Vfresh bottle in the fridge : such a bad start</p><p>What will you think about having everyday a fresh and organic fruit juice delivered to your house ? A dream ? No it’s real and this service is provided by True Juice</p><p>True Juice is borned in 2017 from the idea of the young Tran Thanh Huyen. The concept appeared when she was looking for a new goal in her life. Working day after day, she didn’t have time to take care so much about her, her health, her body, her life out of work. She realised small actions could help much better than waiting for the good day to change her life. That’s why, after making a homemade fruit juice and feeling well with this fresh and healthy beverage, she wondering if it could help people in their day life to feel better</p><br><blockquote style=\"display:flex;justify-content:center;align-items:center;text-align:center\"><p><img src=\"/images/TrueJuice/wordsac.png\" alt=\"wordsac\" class=\"uk-preserve\"></p><p style=\"width: 80%;\">Making each week new fruit juices, True Juice delivers the bottles to your home every two days. You get organic, surprising and fresh juices with organic fruits coming from farms in Dalat and the North of VIetnam. You just have to subscribe and give your address, they manage the rest !</p></blockquote><br><p>TRUE JUICE offers a tasty and nutritive drink. It’s good for : your palate AND your body !</p><p>It allows you to have a better nutrition in having pleasure at the same time</p><h2>Video interview</h2><video controls><source src=\"/images/TrueJuice/truejuice.mp4\" type=\"video/mp4\"></video>",
+      "side-content": "<h2>What we like ?</h2><ul><li><u>The first goal of the concept</u> : helping people in their day life in giving them a way to care about their health in a world where people spend their day at work and where it’s more and more difficult to eat properly without chemical products into food</li><li><u>The community</u> : Practising yoga for a while, Miss Huyen wants to improve the health and life of people in building a community around True Juice. This community could have yoga courses, exchange recipes and the members could escape from the work pressure in hanging out together</li><li><u>The recipes</u> : The start up always tries to give new experiences to customers, mixing vegetables and fruits in different ways. It’s really nice to have the opportunity of testing different things compared of the poor juice choices in supermarkets</li><li><u>The environmental aspect</u> : The glass bottles are returned to the company in the aim to reuse them</li></ul><h2>How are they growing up ?</h2><p>As a new company, the True Juice employees struggled to find their place on the market. They have been helped by the Vietnam Silicon Valley program to meet investors in the aim of getting known and obtain investment</p><p>Becoming bigger and bigger they got a new work space for the 15 workers in the team! They are really motivated and their beliefs will definitely take them far ! So, if you have the same values, want to try their drinks, want to be a part of the community or even work with them don’t hesitate to contact Miss Huyen and her warmly team</p>",
+      "address": "PHO Nguyen Huu Huan 39, Hanoi, Thành Phố Hà Nội, Viêt Nam",
+      "contact": {
+        "website": "truejuice.vn",
+        "mail": "truejuice.vn@gmail.com",
+        "phone": "+84 97 176 98 75"
+      }
+    },
+    {
+      "id": "3",
+      "name": "The Learning Hub",
+      "type": "Co-working space",
+      "coordinates": {
+        "lat": 21.02531,
+        "lng": 105.85524
+      },
+      "description": "A collaborative workspace for projects that matter",
+      "main-content": "<h2>What does it do ?</h2><p>The <b>Learning Hub</b> offers open spaces where you can :</p><ul><li>Draw your concept or write key words on a board</li><li>Seat in a team or alone around table</li><li>Have privacy</li><li>Have a break or a nap with a tea cup on a comfortable sofa !</li></ul><p>The learning Hub founders have set up this co-working space around 3 main activities :</p><h3>Collaborative workspace</h3><p>Alone or in a team, with a project a business or just the desire of working with people sharing same values, vision or passion, Learning Hub will warmly welcome you. The concept is to give a space and listening people on what they want to be part of or to work on. You have ideas, values but you don’t know how to start or help with? You have a project but not the space to work in a team ? Come to the Learning Hub to find a team or get advices to run a project and make it true.  Being part of this collaborative space is an opportunity to have access to events focusing on : </p><p>ENVIRONMENT - NGO – DEVELOPMENT OF PEOPLE EDUCATION ALTERNATIVES and SOCIAL ENTREPRENEURS.</p><p>Learning Hub focus on those subjects and values sharing by people coming to its co-working. It supports people that doesn’t have the confidence or the daring to start a project or struggle to run their business.</p><p>The community is based on trust, support and no judgements. People debate, speak, eat together and share moments</p><h3>The Leasing</h3><p> You need a place to do a workshop ? An event ? Or you are travelling and need a space to meet colleagues, do a meeting ? Learning Hub makes more than providing the space, it can also promote your event and manage the facilities and logistic (equipment, registration etc). In the same way, you can reach the community working in Learning Hub ! The co-working organizes many events and special breakfast with professionals, artists and entrepreneurs that want to debate, make well known or share their vision on a subject / project</p><h3>Events</h3><p>Learning-Hub focus on the well-being of its community and provides them events to :</p><div style=\"display:flex;justify-content:space-between;\"><span><b>Learn on a subject</b></span><span><b>Get confidence</b></span><span><b>Meet people</b></span></div><br><div style=\"display: flex;justify-content:space-evenly;\"><img src=\"/images/LearningHub/teamcartoon.png\" alt=\"teamcartoon\" class=\"uk-preserve\"><img src=\"/images/LearningHub/teammeal.png\" alt=\"teammeal\" class=\"uk-preserve\"></div><br><div style=\"display:flex;justify-content:center;\"><span><b>Go deeply and forward their project</b></span></div><p>Leadership, self-managing, design thinking, lunch&diners, workshops, creative morning … many events are set up by the staff to keep the community alive and give the opportunity to get skills, networking, friends and collaborate together !</p><p>The bonus ? IT’S FREE for the community members ! And you can even get discount with the partnerships (restaurants, gym etc)</p>",
+      "side-content": "<h2>What we like ?</h2><h3>The spirit</h3><p>Learning hub welcomes people in a warmly way to support their project and giving them the opportunity to go forward. During the interview, they told us they wanted to help people, sharing the same values, to try the adventure when they are afraid of or don’t have enough confidence. The aim is to connect people to create and participate together in a project. The biggest value is no judgment into the community where members work in a respectful and calm way and help each other when they can. When you go to Learning Hub, you feel at home, with people listening to you</p><h3>Projects</h3><p>The co-working place supports important projects in collaboration with knowmads where people can learn about theirself, their passion and what they could do. Those projects focus on environment, development of people and education in the aim to improve our present and future. Reducing plastic, making bamboo and recyclable straws, thinking about a new way of learning, many projects to change our daily</p><h3>Staff organization</h3><p>They are young – 25/30 – motivated and from everywhere ! You can have a look on their website to discover the 6 members and their 6 personalities. In their organization, there is no hierarchy, everyone participate in the management of the structure and give ideas to improve the coworking space. Their vision of innovation : Giving the chance to everybody about what you really want to do. A place where all opportunities can be reached and seized</p>",
+      "address": "PHO Ngo Quyen 14, Hanoi, Thành Phố Hà Nội, Viêt Nam",
+      "contact": {
+        "website": "www.thelearninghub.vn",
+        "mail": "xinchao@thelearninghub.vn",
+        "phone": "+84 91 771 12 83"
+      }
+    },
+    {
+      "id": "4",
+      "name": "iHouse Coworking",
+      "type": "Co-working space",
+      "coordinates": {
+        "lat": 21.02338,
+        "lng": 105.79425
+      },
+      "description": "Working is relaxing",
+      "main-content": "<h2>What does it do ?</h2><p>As a wo-working space, <b>iHouse</b> offers :</p><ul><li>6 rooms : meeting rooms to work in a team, silent room to work alone</li><li>3 open spaces outside or inside</li><li>relaxing rooms</li></ul><p>Moreover, it provides equipment : computers, printings, copyings etc and facilities like wifi, drinks and so one</p><p>Up to this point iHouse enters in the co-working categories</p><p><span>But what kind of values does it bring ?</span><br><span>What is different from the other co-working spaces ?</span></p><p>The founder of this co-working space, <b>Nam Do</b>, worked hard to give a specific environment to his co-working spaces. In fact, the place is built around trees in a middle of a courtyard whose the walls are covered of plants and where the flowers are in every corner of the place</p><p>But the biggest value is by far the community life !</p><p>In fact, many events are organised for the co-workers :</p><ul><li>Innovative classes, to learn in a different way</li><li>Workshop with artists or amazon trackers</li><li>Diners</li><li>Parties for christmas or sports and so on</li></ul><p>There is a real community life into the co-working space, people are warmly, enjoy their break with games and laugh around a drink.  All the events give the opportunities to work in team with unknown free lancers or entrepreneurs from the iHouse but also learn from the skills of others and how to obtain results with everybody</p><p>The co-working place also focus on giving to everybody the opportunity to success in meeting the right person for his business. If someone need a web designer for his project, the iHouse staff will try to find the right person among its networking to plan a meeting inside the co-working. In this way, the meeting can be done in a relaxing space, without any pressure or any time spent in looking for someone</p><p>As iHouse’s staff repeat :</p><blockquote><p>This place is based on trust and bonds</p></blockquote><p>For sure, all those attractive points have a cost but we were surprised to see it was not more than an other basic co-working space !</p>",
+      "side-content": "<h2>What we like ?</h2><h3>The environment</h3><p>When we went there for the first time we were won over for the very first seconds spent inside. We parked our motorbikes in the courtyard where 4 men were playing table football, laughing and enjoying their break. All the space is a piece of paradise; you arrive by a very noisy and busy street from the Cau Giay quarter to this silent place where plenty of plants had found their place around the wood tables and chairs</p><p>There is no reason to feel not well inside this co-working, it’s a relaxing place where you feel well and ready to work</p><h3>The aim of creating a strong community</h3><p>Everything is made for you to get a nice place to work and by work, we also mean having efficient and great break to work better after. The staff stay available to help you in participating to events or to plan specific events regarding your needs. They also have a large networking to organize any meeting when people need specific skills or advices for their business / project</p><p>There is no point in arguing more except that the staff is composed by warm people always available to give you the information that you need</p><img src=\"/images/iHouse/wordsac.png\" alt=\"wordsac\" class=\"uk-preserve\"><h2>Where ?</h2><p>If the quarter of Cau Giay is too far for you, you can discover the fourteen others iHouse spread in Hanoï ! If you still have questions or doubts about how those co-working places can be helpful, have a look on internet, facebook or Instagram !</p><p>Now, let’s go !</p>",
+      "address": "PHO Yen Hoa 131, Hanoi, Thành Phố Hà Nội, Viêt Nam",
+      "contact": {
+        "website": "coworking.vn",
+        "mail": "gm.tungnguyen@gmail.com",
+        "phone": "+84 90 452 97 86"
+      }
+    },
+    {
+      "id": "5",
+      "name": "VSV",
+      "type": "Accelerator",
+      "coordinates": {
+        "lat": 20.96591,
+        "lng": 105.77014
+      },
+      "description": "Vietnam Silicon Valley",
+      "main-content": "<h2>What do they do ?</h2><p>For the first time in Vietnam, Ministry of Science and Technology and the Vietnamese Government take an initiative directed at stimulating the growth of technology Startups in Vietnam</p><p>The launching ceremony “Silicon Valley Ecosystem in Viet Nam‟ on June 4, 2013 showcased the commitment of the Government to build a Silicon Valley for Startups in Vietnam</p><p>The Project seeks to create an ecosystem of innovations and technology commercialization in Vietnam – by combining our Vietnamese entrepreneurial spirit and innovative nature with the most successful practices that America has to offer in startup development and mentoring, accelerators, and venture capital funding and investing</p><p>The Project marks the beginning of a dynamic and exciting ecosystem for technology entrepreneurship and startups in Vietnam with the application of Silicon Valley – tested training and development programs and networks of mentors from Silicon Valley to stimulate the growth of Vietnam’s Startups</p><p>Without further ado, let us together take the first steps toward this incredible future</p>",
+      "side-content": "<h2>What we like ?</h2><p>In 2017, VSV signed a strategic cooperation agreement with Microsoft Vietnam and Lotte accelerator to support incubation and start-up investments, even the government is starting to give support to this ecosystem</p>",
+      "address": "DUONG Ly Thuong Kiet 24, Hanoi, Thành Phố Hà Nội, Viêt Nam",
+      "contact": {
+        "website": "www.siliconvalley.com.vn",
+        "mail": "hello@siliconvalley.com.vn",
+        "phone": "+84 42 218 97 77"
+      }
+    }
+  ]
+}

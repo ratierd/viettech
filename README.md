@@ -1,6 +1,11 @@
-# vietech
+# Viettech
 
 > Nuxt.js project
+
+## Project
+
+Static website for Hanoi Foreign Trade University student project.
+Presentation of hanoi start-ups, accelerator, coworking spaces and incubators.
 
 ## Build Setup
 

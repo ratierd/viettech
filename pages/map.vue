@@ -46,7 +46,7 @@ export default {
     mounted() {
         let map = new mapboxgl.Map({
             container: 'map',
-            style: "https://tile.jawg.io/jawg-sunny.json?access-token=11WJmN1axIKlvtDnZ0pilPGpWpQz19esMSu8JTZhIvH09iJFihnCDwMWVAUhgYeL",
+            style: "https://tile.jawg.io/jawg-sunny.json?access-token=<YOUR_ACCESS_TOKEN>",
             zoom: 12.5,
             center: [105.831436, 21.037405]
         })

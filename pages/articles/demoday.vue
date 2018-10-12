@@ -41,46 +41,46 @@
         <div class="uk-grid uk-child-width-1-3@s">
             <div class="uk-text-center">
                 <img src="/images/canets.png" alt="canets" class="uk-preserve vignette">
-                <p>It’s a website and phone application connecting students with families around for quick jobs like : baby sitting, help for homework, cleaning etc.
+                <p class="uk-text-center">It’s a website and phone application connecting students with families around for quick jobs like : baby sitting, help for homework, cleaning etc.
                 <br/>There is a free trial period included in their business model</p>
             </div>
             <div class="uk-text-center">
                 <img src="/images/freshdeli.png" alt="freshdeli" class="uk-preserve vignette">
-                <p>Fresh Deli offers to deliver meals to office workers made by citizens for a better quality and a new way of revenue for people which have no other part jobs</p>
+                <p class="uk-text-center">Fresh Deli offers to deliver meals to office workers made by citizens for a better quality and a new way of revenue for people which have no other part jobs</p>
             </div>
             <div class="uk-text-center">
                 <img src="/images/huepackaging.png" alt="huepackaging" class="uk-preserve vignette">
-                <p>Hue Packaging is a website where you can design your own package : business card, envelope, handbag, shipping box etc.
+                <p class="uk-text-center">Hue Packaging is a website where you can design your own package : business card, envelope, handbag, shipping box etc.
                 <br/>Markets : Hanoï, Ho Chi Minh, Korea and Singapour</p>
             </div>
         </div>
         <div class="uk-grid uk-child-width-1-3@s">
             <div class="uk-text-center">
                 <img src="/images/truejuice.png" alt="truejuice" class="uk-preserve vignette">
-                <p>A project to provide surprising juices with organic fruits and vegetables to homes or workplaces
+                <p class="uk-text-center">A project to provide surprising juices with organic fruits and vegetables to homes or workplaces
                 <br/><i>A page on this startup is on the website</i></p>
             </div>
             <div class="uk-text-center">
                 <img src="/images/689cloud.png" alt="689cloud" class="uk-preserve vignette">
-                <p>A platform to secure confidential information sharing between colleagues, partners, clients in companies or businesses</p>
+                <p class="uk-text-center">A platform to secure confidential information sharing between colleagues, partners, clients in companies or businesses</p>
             </div>
             <div class="uk-text-center">
                 <img src="/images/peko.png" alt="peko" class="uk-preserve vignette">
-                <p>Peko Peko is an electronic wallet where you can put loyalty cards and credit cards. It’s a new way of payment : easier and accommodating</p>
+                <p class="uk-text-center">Peko Peko is an electronic wallet where you can put loyalty cards and credit cards. It’s a new way of payment : easier and accommodating</p>
             </div>
         </div>
         <div class="uk-grid uk-child-width-1-3@s">
             <div class="uk-text-center">
                 <div class="vignette-txt"><h1>HANDFREE</h1></div>
-                <p>A platform to find a local expert to realize a job. The platform gives you a network of people who will answer to your exact need. It includes : photographer, plumber, electrician, and more</p>
+                <p class="uk-text-center">A platform to find a local expert to realize a job. The platform gives you a network of people who will answer to your exact need. It includes : photographer, plumber, electrician, and more</p>
             </div>
             <div class="uk-text-center">
                 <img src="/images/r.png" alt="r" class="uk-preserve vignette">
-                <p>Platform with gesture and voice recognitions in the aim to have the control on intelligent devices</p>
+                <p class="uk-text-center">Platform with gesture and voice recognitions in the aim to have the control on intelligent devices</p>
             </div>
             <div class="uk-text-center">
                 <div class="vignette-txt"><h1>WinME</h1></div>
-                <p>E-commerce solution where people can buy products</p>
+                <p class="uk-text-center">E-commerce solution where people can buy products</p>
             </div>
         </div>
         <div style="display: flex; justify-content: center; align-items:center; margin-top: 40px;">

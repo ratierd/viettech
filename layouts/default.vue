@@ -74,4 +74,8 @@ html {
   margin: 0;
 }
 
+p {
+  text-align: justify;
+}
+
 </style>
